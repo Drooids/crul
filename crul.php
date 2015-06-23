@@ -1,6 +1,6 @@
 <?php
 
-require_once(dirname(__FILE__) . '/hp-ansi-color.php');
+require_once(dirname(__FILE__) . '/assets/hp-ansi-color.php');
 use PhpAnsiColor\Color;
 
 /**
